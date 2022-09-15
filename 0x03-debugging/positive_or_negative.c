@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * positive_or_negative - Funtion to print negative or positive
+ * @n: an integer
  *
  * Return: Always 0 (Success)
  */
