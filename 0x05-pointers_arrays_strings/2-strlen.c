@@ -4,7 +4,7 @@
 
 /**
  * _strlen: Function to return the length of a string
- * @s: string to be passed
+ * @s: the string to get the length of.
  *
  * Return: Value of length of string
  */
